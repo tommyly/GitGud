@@ -1,2 +1,2 @@
-人 = people
-鳥 = bird
+人 = ひと = people
+鳥 = とり = bird
