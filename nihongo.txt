@@ -1,2 +1,2 @@
 人 = hito
-果物 = fruitdsadsads
+果物 = fruit
