@@ -1,2 +1,2 @@
-人 = person
-鳥 = birdz
+人 = people
+鳥 = bird
