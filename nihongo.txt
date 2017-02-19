@@ -1,3 +1,2 @@
 人 = person
-果物 = fruit
-鳥 = bird
+鳥 = birdz
