@@ -1,1 +1,2 @@
 人 = hito
+果物 = fruit
