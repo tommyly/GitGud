@@ -1,2 +1,3 @@
 人 = hito
 果物 = fruit
+鳥 = bird
